@@ -350,7 +350,9 @@
   gap: 8px;
   font-style: normal;
 }
-
+.footer__contact-link{
+  border-bottom:1px solid black;
+}
 
 .footer__address {
   margin-top: 5px;
